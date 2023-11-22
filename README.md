@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on some Dynamic WebDev Projects(some private REPOs)<br>🌱 I’m currently learning Machine Learning<br>💬 Ask me about Backend Tech and Relational Databases<br>🐧 I use Linux BTW
+🔭 I’m currently working on some Dynamic WebDev Projects<br>🌱 I’m currently learning Backend frameworks<br>💬 Ask me about Backend Tech and Relational Databases<br>🐧 I use Linux BTW
 
 
 ## 🌐 Socials:
