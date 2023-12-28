@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on some Dynamic WebDev Projects<br>🌱 I’m currently learning Backend frameworks<br>💬 Ask me about Backend Tech and Relational Databases<br>
+🔭 I’m currently working on some Dynamic WebDev Projects<br>🌱 I’m currently learning SprintBoot & Rust<br>💬 Ask me about Backend Tech and Relational Databases<br>
 
 
 ## 🌐 Socials:
