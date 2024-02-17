@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on some Dynamic WebDev Projects<br>🌱 I’m currently learning SpringBoot<br>💬 Ask me about Backend Tech and Relational Databases<br>📄 Know about myself [Resume](https://drive.google.com/file/d/1FmTcOqaP_r3qm3lWcMP_bX26pvronLuw/view?usp=sharing)
+🔭 I’m currently working on some Dynamic WebDev Projects<br>🌱 I’m currently learning SpringBoot<br>💬 Ask me about Backend Tech and Relational Databases<br>📄 Know about myself [Resume](https://drive.google.com/file/d/13ONIapDkSKGjbe2RoYZuaiaf2IoGGY9d/view?usp=sharing)
 
 
 ## 🌐 Socials:
