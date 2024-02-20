@@ -1,6 +1,8 @@
 # 💫 About Me:
 🔭 I’m currently working on some Dynamic WebDev Projects<br>🌱 I’m currently learning SpringBoot<br>💬 Ask me about Backend Tech and Relational Databases<br>📄 Know about myself [Resume](https://drive.google.com/file/d/13ONIapDkSKGjbe2RoYZuaiaf2IoGGY9d/view?usp=sharing)
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=JainishPrajapati88&label=Profile%20views&color=0e75b6&style=flat" alt="JainishPrajapati88" /> </p>
+
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jainish-prajapati/) 
