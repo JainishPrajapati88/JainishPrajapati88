@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **jainishprajapati98@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1oNLLiVmDr4OynPQ1kQFa1Cf_Bg6RXEBq/view?usp=sharing](https://drive.google.com/file/d/1oNLLiVmDr4OynPQ1kQFa1Cf_Bg6RXEBq/view?usp=sharing)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1oNLLiVmDr4OynPQ1kQFa1Cf_Bg6RXEBq/view?usp=sharing)
 
 - ⚡ Fun fact **I am professional procrastinator**
 
