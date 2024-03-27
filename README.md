@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **MERN Stack**
 
-- 💬 Ask me about **SpringBoot, Python-Flask, php**
+- 💬 Ask me about **SpringBoot, Python-Flask, PHP, CMS Systems, Numpy-Pandas**
 
 - 📫 How to reach me **jainishprajapati98@gmail.com**
 
