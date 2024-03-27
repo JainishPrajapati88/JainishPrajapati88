@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on **Custome ERPs and CRMs**
 
-- 🌱 I’m currently learning **Mern stack**
+- 🌱 I’m currently learning **MERN Stack**
 
 - 💬 Ask me about **SpringBoot, Python-Flask, php**
 
