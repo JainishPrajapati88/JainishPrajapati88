@@ -8,15 +8,13 @@
 <p align="left"> <a href="https://twitter.com/iammad98" target="blank"><img src="https://img.shields.io/twitter/follow/iammad98?logo=twitter&style=for-the-badge" alt="iammad98" /></a> </p>
 
 
-- 🌱 I’m currently learning **MERN Stack**
+- 💬 Ask me about **Java, Python-Flask, PHP, CMS Systems, Numpy-Pandas**
 
-- 💬 Ask me about **SpringBoot, Python-Flask, PHP, CMS Systems, Numpy-Pandas**
-
-- 📫 How to reach me **jainishprajapati98@gmail.com**
+- 📫 Reach me at **jainishprajapati98@gmail.com**
 
 - 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1oNLLiVmDr4OynPQ1kQFa1Cf_Bg6RXEBq/view?usp=sharing)
 
-- ⚡ Fun fact **I am professional procrastinator**
+- ⚡ **I am professional procrastinator**
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
