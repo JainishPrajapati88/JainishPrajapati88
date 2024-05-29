@@ -5,14 +5,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jainishprajapati88" alt="jainishprajapati88" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/iammad98" target="blank"><img src="https://img.shields.io/twitter/follow/iammad98?logo=twitter&style=for-the-badge" alt="iammad98" /></a> </p>
-
-
 - 💬 Ask me about **Java, Python-Flask, PHP, CMS Systems, Numpy-Pandas**
 
 - 📫 Reach me at **jainishprajapati98@gmail.com**
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1oNLLiVmDr4OynPQ1kQFa1Cf_Bg6RXEBq/view?usp=sharing)
+- 📄 Know about my experiences [Personal Portfoio Website](https://jainishprajapati.vercel.app/)
 
 - ⚡ **I am professional procrastinator**
 
