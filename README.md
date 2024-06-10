@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on backend projects<br>🌱 I’m currently learning Spring Boot<br>💬 Ask me about Java<br>⚡ Fun fact : You need to talk first for that<br>📄 Know about my experiences [Portfolio Website](https://jainishprajapati.vercel.app/)
+👋 Hi, I’m Jainish Prajapati <br> 🌱 I’m currently diving into Java Ecosystem <br> 📄 Know about my experiences [Portfolio Website](https://jainishprajapati.vercel.app/)
 
 
 ## 🌐 Socials:
