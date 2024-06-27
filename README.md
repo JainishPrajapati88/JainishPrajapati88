@@ -44,6 +44,10 @@ Hi, my name is Jainish Prajapati, I'm a Backend Developer from India.
 <a> 
     <a href="https://github.com/JainishPrajapati88"><img alt="Jainish Prajapati's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=JainishPrajapati88&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
   <a href="https://github.com/JainishPrajapati88"><img alt="Jainish Prajapati's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=JainishPrajapati88&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
+    <a href="https://github.com/JainishPrajapati88">
+   <img alt="Jainish Prajapati's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=JainishPrajapati88&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866&cache_seconds=1800" height="192px" width="49.5%"/>
+</a>
+
   <br/>
 </a>
 
