@@ -44,9 +44,9 @@ Hi, my name is Jainish Prajapati, I'm a Backend Developer from India.
 
 <a> 
     <a href="https://github.com/JainishPrajapati88"><img alt="Jainish Prajapati's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=JainishPrajapati88&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
-  <a href="https://github.com/JainishPrajapati88"><img alt="Jainish Prajapati's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=JainishPrajapati88&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
+  <a href="https://github.com/"><img alt="Jainish Prajapati's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=JainishPrajapati88&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
   <br/>
 </a>
 
 
-![Al Siam's Graph](https://github-readme-activity-graph.vercel.app/graph?username=JainishPrajapati88&custom_title=Jainish%20Prajapati's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
+![Jainish Prajapati's Graph](https://github-readme-activity-graph.vercel.app/graph?username=JainishPrajapati88&custom_title=Jainish%20Prajapati's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
