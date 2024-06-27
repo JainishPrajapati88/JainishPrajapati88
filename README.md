@@ -18,13 +18,13 @@
 
 <p align="center">
   <a href="https://github.com/JainishPrajapati88">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=alsiam&theme=radical&border=7F3FBF&background=0D1117" alt="Saif's GitHub streak"/>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=JainishPrajapati88&theme=radical&border=7F3FBF&background=0D1117" alt="Saif's GitHub streak"/>
   </a>
 </p>
 
 <p align="center">
   <a href="https://github.com/JainishPrajapati88">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=alsiam&theme=radical" alt="Al Siam's GitHub Contribution"/>
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JainishPrajapati88&theme=radical" alt="Al Siam's GitHub Contribution"/>
   </a>
 </p>
 
