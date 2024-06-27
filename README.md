@@ -1,6 +1,29 @@
-# 💫 About Me:
-👋 Hi, I’m Jainish Prajapati <br> 🌱 I’m currently diving into Java Ecosystem <br> 📄 Know about my experiences [Portfolio Website](https://jainishprajapati.vercel.app/)
+<picture> 
+<a href="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Developer">
+<img src="/assets//images/developer.webp" align="right" width="350">
+</a>
+</picture>
 
+```Rust
+struct User {
+    name: String,
+    username: String,
+    email: String,
+}
+fn main() {
+    let my_info = User {
+        name: String::from("Jainish Prajapati"),
+        email: String::from("jainishprajapati98@gmail.com"),
+    };
+    println!("Name: {}", my_info.name);
+    println!("Email: {}", my_info.email);
+}
+```
+
+```bash
+Jainish@Profile:~$ rustc hello.rs
+Hi, my name is Jainish Prajapati, I'm a Backend Developer from India.
+```
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/jainish-prajapati)
