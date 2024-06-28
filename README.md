@@ -16,6 +16,7 @@ fn main() {
 
 ```bash
 Jainish@Profile:~$ rustc hello.rs
+Jainish@Profile:~$ ./hello
 Hi, my name is Jainish Prajapati, I'm a Backend Developer from India.
 ```
 
