@@ -13,6 +13,12 @@ fn main() {
     println!("Email: {}", my_info.email);
 }
 ```
+<pre>
+Jainish@Profile:~$ rustc hello.rs
+Jainish@Profile:~$ ./hello
+Hi, my name is Jainish Prajapati, I'm a Backend Developer from India.
+<a href="https://github.com/JainishPrajapati88/JainishPrajapati88/blob/main/Jainish_Resume.pdf" target="_blank">My Resume</a>
+</pre>
 
 ```bash
 Jainish@Profile:~$ rustc hello.rs
