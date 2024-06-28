@@ -18,6 +18,7 @@ fn main() {
 Jainish@Profile:~$ rustc hello.rs
 Jainish@Profile:~$ ./hello
 Hi, my name is Jainish Prajapati, I'm a Backend Developer from India.
+[My Resume](https://github.com/JainishPrajapati88/JainishPrajapati88/blob/main/Jainish_Resume.pdf)
 ```
 
 ## 🌐 Socials:
