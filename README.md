@@ -33,21 +33,22 @@ Hi, my name is Jainish Prajapati, I'm a Backend Developer from India.
 
 <p align="center">
   <a href="https://github.com/JainishPrajapati88">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=JainishPrajapati88&theme=radical&border=7F3FBF&background=0D1117" alt="Saif's GitHub streak"/>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=JainishPrajapati88&theme=radical&border=7F3FBF&background=0D1117" alt="Jainish's GitHub streak"/>
   </a>
 </p>
 
 <p align="center">
   <a href="https://github.com/JainishPrajapati88">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JainishPrajapati88&theme=radical" alt="Al Siam's GitHub Contribution"/>
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JainishPrajapati88&theme=radical" alt="Jainish's GitHub Contribution"/>
   </a>
 </p>
 
 <a> 
     <a href="https://github.com/JainishPrajapati88"><img alt="Jainish Prajapati's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=JainishPrajapati88&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
-  <a href="https://github.com/JainishPrajapati88">
-   <img alt="Jainish Prajapati's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=JainishPrajapati88&langs_count=100&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866&cache_seconds=1800" height="192px" width="49.5%"/>
+<a href="https://github.com/JainishPrajapati88">
+   <img alt="Jainish Prajapati's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JainishPrajapati88&langs_count=100&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866&cache_seconds=1800&token=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" height="192px" width="49.5%"/>
 </a>
+
 
   <br/>
 </a>
