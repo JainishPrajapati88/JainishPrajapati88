@@ -1,4 +1,4 @@
-```Rust
+<pre>
 struct User {
     name: String,
     username: String,
@@ -12,20 +12,14 @@ fn main() {
     println!("Name: {}", my_info.name);
     println!("Email: {}", my_info.email);
 }
-```
+</pre>
+
 <pre>
 Jainish@Profile:~$ rustc hello.rs
 Jainish@Profile:~$ ./hello
 Hi, my name is Jainish Prajapati, I'm a Backend Developer from India.
 <a href="https://github.com/JainishPrajapati88/JainishPrajapati88/blob/main/Jainish_Resume.pdf" target="_blank">My Resume</a>
 </pre>
-
-```bash
-Jainish@Profile:~$ rustc hello.rs
-Jainish@Profile:~$ ./hello
-Hi, my name is Jainish Prajapati, I'm a Backend Developer from India.
-[My Resume](https://github.com/JainishPrajapati88/JainishPrajapati88/blob/main/Jainish_Resume.pdf)
-```
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/jainish-prajapati)
