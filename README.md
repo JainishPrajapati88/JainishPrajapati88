@@ -1,6 +1,6 @@
 # 👋 Hey there, I'm Jainish Prajapati!
 
-## What I'm up to
+## About Me
 - 🎓 Currently hacking my way through a Computer Engineering degree
 - 💻 Always learning and staying up-to-date with tech trends
 - 🌐 Living in the matrix made of 0s and 1s
