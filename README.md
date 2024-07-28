@@ -5,11 +5,11 @@
 - 💻 Always learning and staying up-to-date with tech trends
 - 🌐 Living in the matrix made of 0s and 1s
 
-## 🛠 Tech Toolbox
+## 🛠 Tech Stack
 
-- **Languages:** Java, Python, PHP
-- **Frameworks:** Flask, Django, Spring Boot (RESTful APIs)
-- **Libraries:** NumPy, Pandas
+- **Languages:** Python, Java, C
+- **Frameworks:** Flask, Django
+- **Libraries:** NumPy, Pandas, Matplotlib
 - **Databases:** MySQL (the relational goodness) and MongoDB (for when I'm feeling schemaless)
 
 ## 🚀 What I'm up to
@@ -22,7 +22,7 @@
 
 Got a cool project idea? Or just geek out about programming? Hit me up!
 
-- 📧 [Email](mailto:jainishprajapati98@gmail.com)
+- 📧 [Email](mailto:work.jainishprajapati@gmail.com)
 - 💼 [LinkedIn](https://www.linkedin.com/in/jainish-prajapati/)
 
 When I'm not coding, you can find me brainstorming ideas with fellow tech enthusiasts or diving into the latest tech blogs. Always open to interesting projects and collaborations!
