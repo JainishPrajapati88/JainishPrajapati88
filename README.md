@@ -2,19 +2,17 @@
 
 ## About Me
 - 🎓 Currently hacking my way through a Computer Engineering degree
-- 💻 Always learning and staying up-to-date with tech trends
 - 🌐 Living in the matrix made of 0s and 1s
 
 ## 🛠 Tech Stack
 
 - **Languages:** Python, Java, C
-- **Frameworks:** Flask, Django
-- **Libraries:** NumPy, Pandas, Matplotlib
+- **Frameworks:** Flask, FastAPI
+- **Libraries:** NumPy, Pandas, Matplotlib, Scikit-Learn
 - **Databases:** MySQL (the relational goodness) and MongoDB (for when I'm feeling schemaless)
 
 ## 🚀 What I'm up to
 
-- Tinkering with trends (always on the lookout for the next big thing)
 - Juggling around data
 - Exploring new tech because, well, why not?
 
