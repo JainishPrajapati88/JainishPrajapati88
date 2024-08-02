@@ -7,7 +7,7 @@
 ## 🛠 Tech Stack
 
 - **Languages:** Python, Java, C
-- **Frameworks:** Flask, FastAPI
+- **Frameworks:** Flask, FastAPI, Spring Boot
 - **Libraries:** NumPy, Pandas, Matplotlib, Scikit-Learn
 - **Databases:** MySQL (the relational goodness) and MongoDB (for when I'm feeling schemaless)
 
